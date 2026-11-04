@@ -1,0 +1,4 @@
+# The workflow that calls DataProof, and what DataProof trusts, need owner review.
+/.github/workflows/dataproof.yml @s2002kumar
+/.github/CODEOWNERS @s2002kumar
+/dataproof/ @s2002kumar
