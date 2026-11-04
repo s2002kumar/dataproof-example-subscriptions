@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false
       - name: DataProof
         id: dataproof
-        uses: s2002kumar/DataProof@2cabbc16ffa9581d14186b89cc2db9a99430af71
+        uses: s2002kumar/DataProof@a0789aa9529737153f2171f0ba0acaa545660006
       - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
         if: always()
         with:
