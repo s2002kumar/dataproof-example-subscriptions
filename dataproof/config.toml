@@ -16,7 +16,7 @@ oracle_dir = "dataproof/oracles/"
 binding_dir = "dataproof/bindings/"
 # Digests of bindings a maintainer approved (dataproof_action.binding_approval_digest). A
 # pull request whose binding is not listed is INCOMPLETE until a reviewed change adds it here.
-approved_bindings = []
+approved_bindings = ["82d37cd0340c0fdac312c0df06d212566d372844cc2da59dd42b7a3785f64b18"]
 rejected_bindings = []
 
 [policy]
